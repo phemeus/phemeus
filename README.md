@@ -1,62 +1,76 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Yasin%20%7C%Işıktaş&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=%20%7C%Yasin%20%7C%&fontSize=55&fontColor=ffffff&animation=twinkling" alt="banner"/>
 </p>
 
-# 👋 Merhaba, ben Yasin (phemeus)
-
-💻 Yazılımcıyım • 📍 Ankara, Türkiye  
-🚀 Ruby on Rails & Flutter Developer  
-
----
-
-## 🚀 Hakkımda
-- 🔹 **Full-stack geliştirme**: Ruby on Rails, Vue.js, Stimulus.js  
-- 🔹 **Mobil geliştirme**: Flutter (Android Studio & Cursor ile)  
-- 🔹 **B2B sistemler, oyun geliştirme ve yapay zekâ** odaklı projeler  
-- 🔹 Hedefim: büyük prestij & güçlü bir kariyer 💎  
-
----
-
-## 🛠️ Tech Stack
-
+<h3 align="center">🚀 Ruby on Rails & Flutter Developer</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-2E3440?style=for-the-badge&logo=visualstudiocode&logoColor=61DAFB" />
+  📍 Ankara, Türkiye • Full-Stack & Mobile Development
 </p>
 
----
+## 👨‍💻 Hakkımda  
 
-## 📊 GitHub İstatistiklerim
+Merhaba, ben **Yasin (phemeus)** 👋  
+Türkiye’nin başkenti **Ankara**’da yaşayan bir **Full-Stack & Mobil Uygulama Geliştiricisiyim**.  
+Kariyerimdeki en büyük hedefim, **sadece kod yazan biri olmak değil; geleceği inşa eden projelerin mimarı olmak**.  
+
+💎 **Beni Tanıtan Noktalar:**  
+- 🚀 **Full-Stack Geliştirme:**  
+  Ruby on Rails, Stimulus.js, Phlex ve Vue.js ile ölçeklenebilir ve güçlü web projeleri geliştiriyorum.  
+- 📱 **Mobil Uygulama Geliştirme:**  
+  Android Studio & Cursor üzerinde Flutter kullanarak kullanıcı dostu ve hızlı mobil uygulamalar üretiyorum.  
+- ☁️ **B2B ve AI Çözümleri:**  
+  Özellikle **B2B sistemler, yapay zekâ destekli uygulamalar** ve **gerçek dünyayı kolaylaştıran çözümler** üretmeye odaklanıyorum.  
+- 🎮 **Oyun Geliştirme Tutkusu:**  
+  İnsanların sadece kullanmakla kalmayıp keyif alacağı, etkileşimli oyun deneyimleri tasarlamayı seviyorum.  
+- 🏆 **Hedefim:**  
+  Uluslararası projelerde yer almak, **prestij sahibi bir geliştirici** olmak ve her gün daha iyisini yapmak.  
+
+💡 Benim için yazılım sadece bir iş değil; **hayallerimi gerçeğe dönüştürmenin yolu**.  
+Kod satırlarının arasında geleceği inşa ettiğime inanıyorum. 🚀  
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phemeus&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=phemeus&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2ED573&center=true&vCenter=true&width=600&lines=Hayallerini+koda+d%C3%B6k.;Her+sat%C4%B1r+gelece%C4%9Fe+a%C3%A7%C4%B1lan+bir+kap%C4%B1d%C4%B1r.;Prestij+ve+başarı+tesadüf+değildir." alt="Motto" />
 </p>
 
----
 
-## 🌍 Benimle İletişime Geç
+## 🛠️ Kullandığım Teknolojiler
+
 <p align="center">
-  <a href="mailto:seninmailin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/phemeus">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/phemeus">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=rails,flutter,dart,vue,postgresql,firebase,docker,git,androidstudio,vscode,redis&perline=6" />
 </p>
 
 ---
 
+## 📊 İstatistiklerim
+
 <p align="center">
-  ⭐️ **Kod yaz, üret, paylaş!**
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=phemeus&show_icons=true&theme=dracula" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=phemeus&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phemeus&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌍 İletişim
+
+<p align="center">
+  <a href="mailto:seninmailin@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/phemeus"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/phemeus"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Kod+yaz%2C+üret%2C+paylaş!;Rails+%26+Flutter+ile+gelecek+inşa+ediyorum;AI+ve+B2B+çözümler+🚀" alt="Typing Animation" />
+</p>
+
+---
+
+<p align="center">
+  ⭐️ <strong>Kod yaz, üret, paylaş — geleceği inşa et!</strong>  
 </p>
