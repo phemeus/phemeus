@@ -27,7 +27,7 @@ Benim için yazılım; **hayallerimi gerçeğe dönüştürmenin yolu**.
 ## 🛠️ Teknolojilerim
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rails,flutter,dart,vue,postgresql,firebase,docker,git,androidstudio,vscode,redis,js,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=rails,flutter,dart,vue,postgresql,firebase,git,androidstudio,vscode,redis,js,html,css&perline=7" />
 </p>
 
 ---
