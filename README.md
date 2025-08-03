@@ -27,9 +27,8 @@
 ---
 
 ## 🌐 Benimle İletişime Geç
-- 💼 LinkedIn: [linkedin.com/in/phemeus](#)  
-- ✉️ Mail: **seninmailin@gmail.com**  
-- 🐦 Twitter: [twitter.com/phemeus](#)
+- 💼 LinkedIn: [https://www.linkedin.com/in/yasin-isiktas/](#)  
+- ✉️ Mail: **yasin.isiktas1@gmail.com**  
 
 ---
 ⭐️ **Kod yaz, üret, paylaş!**  
