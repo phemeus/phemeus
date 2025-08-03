@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Yasin%20%7C%20phemeus&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Yasin%20%7C%Işıktaş&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="header" />
 </p>
 
 # 👋 Merhaba, ben Yasin (phemeus)
